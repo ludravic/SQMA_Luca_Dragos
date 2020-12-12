@@ -1,5 +1,3 @@
-package classe;
-
 public class MyClass {
 
 	public int sum_1_n(int n) {
