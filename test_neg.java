@@ -1,7 +1,7 @@
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import classe.MyClass;
+import MyClass;
 
 public class test_neg {
 
