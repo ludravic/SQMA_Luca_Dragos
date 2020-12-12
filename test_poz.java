@@ -3,8 +3,6 @@ import static org.junit.Assert.assertEquals;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import MyClass;
-
 public class test_poz {
 
 private static MyClass object;
